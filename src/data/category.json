@@ -1,0 +1,79 @@
+[
+  {
+    "CategoryID": "Bath",
+    "CategoryName": "Bath",
+    "CategoryLevel": 0,
+    "User1": "Bath",
+    "sortIndex": 5
+  },
+  {
+    "CategoryID": "Bed",
+    "CategoryName": "Bed",
+    "CategoryLevel": 0,
+    "User1": "Bed",
+    "sortIndex": 1
+  },
+  {
+    "CategoryID": "Bedding",
+    "CategoryName": "Bedding",
+    "CategoryLevel": 0,
+    "User1": "Bedding",
+    "sortIndex": 4
+  },
+  {
+    "CategoryID": "bistro",
+    "CategoryName": "Bistro",
+    "CategoryLevel": 0,
+    "User1": "Bistro",
+    "sortIndex": 6
+  },
+  {
+    "CategoryID": "Linens",
+    "CategoryName": "Linens",
+    "CategoryLevel": 1,
+    "User1": "Linens",
+    "sortIndex": 4
+  },
+  {
+    "CategoryID": "LinensLink",
+    "CategoryName": "Linens",
+    "CategoryLevel": 0,
+    "User1": "Linens",
+    "sortIndex": 3
+  },
+  {
+    "CategoryID": "Pillows",
+    "CategoryName": "Pillows",
+    "CategoryLevel": 1,
+    "User1": "Pillows",
+    "sortIndex": 5
+  },
+  {
+    "CategoryID": "PillowsLink",
+    "CategoryName": "Pillows",
+    "CategoryLevel": 0,
+    "User1": "Pillows",
+    "sortIndex": 2
+  },
+  {
+    "CategoryID": "throws",
+    "CategoryName": "Throws",
+    "CategoryLevel": 1,
+    "User1": "hygge-throw",
+    "sortIndex": 7
+  },
+  {
+    "CategoryID": "Towels",
+    "CategoryName": "Towels",
+    "CategoryLevel": 1,
+    "User1": "Towels",
+    "sortIndex": 3
+  },
+  {
+    "CategoryID": "VanityMirrors",
+    "CategoryName": "Vanity Mirrors",
+    "CategoryLevel": 1,
+    "User1": "vanity-mirrors",
+    "sortIndex": 4
+  }
+]

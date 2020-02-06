@@ -1,0 +1,802 @@
+[
+  {
+    "ItemID": "CYM-020-01",
+    "ExtensionGroupID": "Color-GYGR",
+    "ExtensionCode": "-GY",
+    "ExtensionName": "Grey",
+    "ExtensionGroupName": "Color",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-020-01",
+    "ExtensionGroupID": "Color-GYGR",
+    "ExtensionCode": "-GR",
+    "ExtensionName": "Green",
+    "ExtensionGroupName": "Color",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-020-02",
+    "ExtensionGroupID": "Color-GYGR",
+    "ExtensionCode": "-GR",
+    "ExtensionName": "Green",
+    "ExtensionGroupName": "Color",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-020-02",
+    "ExtensionGroupID": "Color-GYGR",
+    "ExtensionCode": "-GY",
+    "ExtensionName": "Grey",
+    "ExtensionGroupName": "Color",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-020-03",
+    "ExtensionGroupID": "Color-GYGR",
+    "ExtensionCode": "-GY",
+    "ExtensionName": "Grey",
+    "ExtensionGroupName": "Color",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-020-03",
+    "ExtensionGroupID": "Color-GYGR",
+    "ExtensionCode": "-GR",
+    "ExtensionName": "Green",
+    "ExtensionGroupName": "Color",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-024-01",
+    "ExtensionGroupID": "Color-WHGYTC",
+    "ExtensionCode": "-GY",
+    "ExtensionName": "Grey",
+    "ExtensionGroupName": "Color",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-024-01",
+    "ExtensionGroupID": "Color-WHGYTC",
+    "ExtensionCode": "-TC",
+    "ExtensionName": "Terracotta",
+    "ExtensionGroupName": "Color",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-024-01",
+    "ExtensionGroupID": "Color-WHGYTC",
+    "ExtensionCode": "-WH",
+    "ExtensionName": "White",
+    "ExtensionGroupName": "Color",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-025-BK",
+    "ExtensionGroupID": "Size-610",
+    "ExtensionCode": "-10",
+    "ExtensionName": "10 oz.",
+    "ExtensionGroupName": "Size",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-025-BK",
+    "ExtensionGroupID": "Size-610",
+    "ExtensionCode": "-6",
+    "ExtensionName": "6 oz.",
+    "ExtensionGroupName": "Size",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-101-BE-TX",
+    "ExtensionGroupID": "Size-KQ",
+    "ExtensionCode": "-K",
+    "ExtensionName": "King",
+    "ExtensionGroupName": "Size",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-101-BE-TX",
+    "ExtensionGroupID": "Size-KQ",
+    "ExtensionCode": "-Q",
+    "ExtensionName": "Queen",
+    "ExtensionGroupName": "Size",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-101-DS-01-WH",
+    "ExtensionGroupID": "Size-CKKQF",
+    "ExtensionCode": "-CK",
+    "ExtensionName": "Cal King",
+    "ExtensionGroupName": "Size",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-101-DS-01-WH",
+    "ExtensionGroupID": "Size-CKKQF",
+    "ExtensionCode": "-F",
+    "ExtensionName": "Full",
+    "ExtensionGroupName": "Size",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-101-DS-01-WH",
+    "ExtensionGroupID": "Size-CKKQF",
+    "ExtensionCode": "-K",
+    "ExtensionName": "King",
+    "ExtensionGroupName": "Size",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-101-DS-01-WH",
+    "ExtensionGroupID": "Size-CKKQF",
+    "ExtensionCode": "-Q",
+    "ExtensionName": "Queen",
+    "ExtensionGroupName": "Size",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-101-LS-TX",
+    "ExtensionGroupID": "Size-KQ",
+    "ExtensionCode": "-Q",
+    "ExtensionName": "Queen",
+    "ExtensionGroupName": "Size",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-101-LS-TX",
+    "ExtensionGroupID": "Size-KQ",
+    "ExtensionCode": "-K",
+    "ExtensionName": "King",
+    "ExtensionGroupName": "Size",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-101-WS",
+    "ExtensionGroupID": "CYM-mattress",
+    "ExtensionCode": "-9",
+    "ExtensionName": "Foam",
+    "ExtensionGroupName": "Mattress Type",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-101-WS",
+    "ExtensionGroupID": "CYM-mattress",
+    "ExtensionCode": "-SIM2",
+    "ExtensionName": "Innerspring",
+    "ExtensionGroupName": "Mattress Type",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-101-WS",
+    "ExtensionGroupID": "Size-KQQS",
+    "ExtensionCode": "-K",
+    "ExtensionName": "King",
+    "ExtensionGroupName": "Size",
+    "SortIndex": 2
+  },
+  {
+    "ItemID": "CYM-101-WS",
+    "ExtensionGroupID": "Size-KQQS",
+    "ExtensionCode": "-Q",
+    "ExtensionName": "Queen",
+    "ExtensionGroupName": "Size",
+    "SortIndex": 2
+  },
+  {
+    "ItemID": "CYM-101-WS",
+    "ExtensionGroupID": "Size-KQQS",
+    "ExtensionCode": "-QS",
+    "ExtensionName": "Queen Split",
+    "ExtensionGroupName": "Size",
+    "SortIndex": 2
+  },
+  {
+    "ItemID": "CYM-103-01-WH",
+    "ExtensionGroupID": "Size-KQ",
+    "ExtensionCode": "-K",
+    "ExtensionName": "King",
+    "ExtensionGroupName": "Size",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-103-01-WH",
+    "ExtensionGroupID": "Size-KQ",
+    "ExtensionCode": "-Q",
+    "ExtensionName": "Queen",
+    "ExtensionGroupName": "Size",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-104-01-WH",
+    "ExtensionGroupID": "Size-CKKQF",
+    "ExtensionCode": "-Q",
+    "ExtensionName": "Queen",
+    "ExtensionGroupName": "Size",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-104-01-WH",
+    "ExtensionGroupID": "Size-CKKQF",
+    "ExtensionCode": "-K",
+    "ExtensionName": "King",
+    "ExtensionGroupName": "Size",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-104-01-WH",
+    "ExtensionGroupID": "Size-CKKQF",
+    "ExtensionCode": "-F",
+    "ExtensionName": "Full",
+    "ExtensionGroupName": "Size",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-104-01-WH",
+    "ExtensionGroupID": "Size-CKKQF",
+    "ExtensionCode": "-CK",
+    "ExtensionName": "Cal King",
+    "ExtensionGroupName": "Size",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-105-01-WH",
+    "ExtensionGroupID": "Size-KQS",
+    "ExtensionCode": "-K",
+    "ExtensionName": "King",
+    "ExtensionGroupName": "Size",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-105-01-WH",
+    "ExtensionGroupID": "Size-KQS",
+    "ExtensionCode": "-Q",
+    "ExtensionName": "Queen",
+    "ExtensionGroupName": "Size",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-105-01-WH",
+    "ExtensionGroupID": "Size-KQS",
+    "ExtensionCode": "-S",
+    "ExtensionName": "Standard",
+    "ExtensionGroupName": "Size",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-106-01-WH",
+    "ExtensionGroupID": "Size-CKKQF",
+    "ExtensionCode": "-CK",
+    "ExtensionName": "Cal King",
+    "ExtensionGroupName": "Size",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-106-01-WH",
+    "ExtensionGroupID": "Size-CKKQF",
+    "ExtensionCode": "-F",
+    "ExtensionName": "Full",
+    "ExtensionGroupName": "Size",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-106-01-WH",
+    "ExtensionGroupID": "Size-CKKQF",
+    "ExtensionCode": "-K",
+    "ExtensionName": "King",
+    "ExtensionGroupName": "Size",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-106-01-WH",
+    "ExtensionGroupID": "Size-CKKQF",
+    "ExtensionCode": "-Q",
+    "ExtensionName": "Queen",
+    "ExtensionGroupName": "Size",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-107-1",
+    "ExtensionGroupID": "Size-KQS",
+    "ExtensionCode": "-S",
+    "ExtensionName": "Standard",
+    "ExtensionGroupName": "Size",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-107-1",
+    "ExtensionGroupID": "Size-KQS",
+    "ExtensionCode": "-Q",
+    "ExtensionName": "Queen",
+    "ExtensionGroupName": "Size",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-107-1",
+    "ExtensionGroupID": "Size-KQS",
+    "ExtensionCode": "-K",
+    "ExtensionName": "King",
+    "ExtensionGroupName": "Size",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-108",
+    "ExtensionGroupID": "Size-KQS",
+    "ExtensionCode": "-K",
+    "ExtensionName": "King",
+    "ExtensionGroupName": "Size",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-108",
+    "ExtensionGroupID": "Size-KQS",
+    "ExtensionCode": "-Q",
+    "ExtensionName": "Queen",
+    "ExtensionGroupName": "Size",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-108",
+    "ExtensionGroupID": "Size-KQS",
+    "ExtensionCode": "-S",
+    "ExtensionName": "Standard",
+    "ExtensionGroupName": "Size",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-108-ECO",
+    "ExtensionGroupID": "Size-KQS",
+    "ExtensionCode": "-S",
+    "ExtensionName": "Standard",
+    "ExtensionGroupName": "Size",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-108-ECO",
+    "ExtensionGroupID": "Size-KQS",
+    "ExtensionCode": "-Q",
+    "ExtensionName": "Queen",
+    "ExtensionGroupName": "Size",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-108-ECO",
+    "ExtensionGroupID": "Size-KQS",
+    "ExtensionCode": "-K",
+    "ExtensionName": "King",
+    "ExtensionGroupName": "Size",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-108D",
+    "ExtensionGroupID": "CYM-ThrowPillow",
+    "ExtensionCode": "-CY",
+    "ExtensionName": "Grey",
+    "ExtensionGroupName": "Color",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-108D",
+    "ExtensionGroupID": "CYM-ThrowPillow",
+    "ExtensionCode": "-FA",
+    "ExtensionName": "Multi-Color",
+    "ExtensionGroupName": "Color",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-112",
+    "ExtensionGroupID": "Size-KQF",
+    "ExtensionCode": "-F",
+    "ExtensionName": "Full",
+    "ExtensionGroupName": "Size",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-112",
+    "ExtensionGroupID": "Size-KQF",
+    "ExtensionCode": "-K",
+    "ExtensionName": "King",
+    "ExtensionGroupName": "Size",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-112",
+    "ExtensionGroupID": "Size-KQF",
+    "ExtensionCode": "-Q",
+    "ExtensionName": "Queen",
+    "ExtensionGroupName": "Size",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-114",
+    "ExtensionGroupID": "Size-CKQFT",
+    "ExtensionCode": "-Q",
+    "ExtensionName": "Queen",
+    "ExtensionGroupName": "Size",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-114",
+    "ExtensionGroupID": "Size-CKQFT",
+    "ExtensionCode": "-T",
+    "ExtensionName": "Twin",
+    "ExtensionGroupName": "Size",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-114",
+    "ExtensionGroupID": "Size-CKQFT",
+    "ExtensionCode": "-CK",
+    "ExtensionName": "California King",
+    "ExtensionGroupName": "Size",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-114",
+    "ExtensionGroupID": "Size-CKQFT",
+    "ExtensionCode": "-F",
+    "ExtensionName": "Full",
+    "ExtensionGroupName": "Size",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-114",
+    "ExtensionGroupID": "Size-CKQFT",
+    "ExtensionCode": "-K",
+    "ExtensionName": "King",
+    "ExtensionGroupName": "Size",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-116-01-WH",
+    "ExtensionGroupID": "Size-KQS",
+    "ExtensionCode": "-K",
+    "ExtensionName": "King",
+    "ExtensionGroupName": "Size",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-116-01-WH",
+    "ExtensionGroupID": "Size-KQS",
+    "ExtensionCode": "-Q",
+    "ExtensionName": "Queen",
+    "ExtensionGroupName": "Size",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-116-01-WH",
+    "ExtensionGroupID": "Size-KQS",
+    "ExtensionCode": "-S",
+    "ExtensionName": "Standard",
+    "ExtensionGroupName": "Size",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-116-WH",
+    "ExtensionGroupID": "Size-KQS",
+    "ExtensionCode": "-S",
+    "ExtensionName": "Standard",
+    "ExtensionGroupName": "Size",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-116-WH",
+    "ExtensionGroupID": "Size-KQS",
+    "ExtensionCode": "-Q",
+    "ExtensionName": "Queen",
+    "ExtensionGroupName": "Size",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-116-WH",
+    "ExtensionGroupID": "Size-KQS",
+    "ExtensionCode": "-K",
+    "ExtensionName": "King",
+    "ExtensionGroupName": "Size",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-120",
+    "ExtensionGroupID": "Size-KQF",
+    "ExtensionCode": "-Q",
+    "ExtensionName": "Queen",
+    "ExtensionGroupName": "Size",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-120",
+    "ExtensionGroupID": "Size-KQF",
+    "ExtensionCode": "-K",
+    "ExtensionName": "King",
+    "ExtensionGroupName": "Size",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-120",
+    "ExtensionGroupID": "Size-KQF",
+    "ExtensionCode": "-F",
+    "ExtensionName": "Full",
+    "ExtensionGroupName": "Size",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-124-9-WL",
+    "ExtensionGroupID": "Mattress",
+    "ExtensionCode": "-CK",
+    "ExtensionName": "California King",
+    "ExtensionGroupName": "Size",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-124-9-WL",
+    "ExtensionGroupID": "Mattress",
+    "ExtensionCode": "-F",
+    "ExtensionName": "Full",
+    "ExtensionGroupName": "Size",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-124-9-WL",
+    "ExtensionGroupID": "Mattress",
+    "ExtensionCode": "-K",
+    "ExtensionName": "King",
+    "ExtensionGroupName": "Size",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-124-9-WL",
+    "ExtensionGroupID": "Mattress",
+    "ExtensionCode": "-Q",
+    "ExtensionName": "Queen",
+    "ExtensionGroupName": "Size",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-124-9-WL",
+    "ExtensionGroupID": "Mattress",
+    "ExtensionCode": "-QS",
+    "ExtensionName": "Queen Split",
+    "ExtensionGroupName": "Size",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-124-9-WL",
+    "ExtensionGroupID": "Mattress",
+    "ExtensionCode": "-T",
+    "ExtensionName": "Twin",
+    "ExtensionGroupName": "Size",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-124-9-WL",
+    "ExtensionGroupID": "BoxSpringST105MO",
+    "ExtensionCode": "-MO",
+    "ExtensionName": "Mattress Only",
+    "ExtensionGroupName": "Box Spring Type",
+    "SortIndex": 2
+  },
+  {
+    "ItemID": "CYM-124-9-WL",
+    "ExtensionGroupID": "BoxSpringST105MO",
+    "ExtensionCode": "-ST",
+    "ExtensionName": "Standard 10.5\"",
+    "ExtensionGroupName": "Box Spring Type",
+    "SortIndex": 2
+  },
+  {
+    "ItemID": "CYM-124-SIM2RC",
+    "ExtensionGroupID": "Mattress",
+    "ExtensionCode": "-T",
+    "ExtensionName": "Twin",
+    "ExtensionGroupName": "Size",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-124-SIM2RC",
+    "ExtensionGroupID": "Mattress",
+    "ExtensionCode": "-QS",
+    "ExtensionName": "Queen Split",
+    "ExtensionGroupName": "Size",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-124-SIM2RC",
+    "ExtensionGroupID": "Mattress",
+    "ExtensionCode": "-Q",
+    "ExtensionName": "Queen",
+    "ExtensionGroupName": "Size",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-124-SIM2RC",
+    "ExtensionGroupID": "Mattress",
+    "ExtensionCode": "-K",
+    "ExtensionName": "King",
+    "ExtensionGroupName": "Size",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-124-SIM2RC",
+    "ExtensionGroupID": "Mattress",
+    "ExtensionCode": "-F",
+    "ExtensionName": "Full",
+    "ExtensionGroupName": "Size",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-124-SIM2RC",
+    "ExtensionGroupID": "Mattress",
+    "ExtensionCode": "-CK",
+    "ExtensionName": "California King",
+    "ExtensionGroupName": "Size",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-124-SIM2RC",
+    "ExtensionGroupID": "BoxSpringST9LP55MO",
+    "ExtensionCode": "-LP",
+    "ExtensionName": "Low Profile 5.5\"",
+    "ExtensionGroupName": "Box Spring Type",
+    "SortIndex": 2
+  },
+  {
+    "ItemID": "CYM-124-SIM2RC",
+    "ExtensionGroupID": "BoxSpringST9LP55MO",
+    "ExtensionCode": "-MO",
+    "ExtensionName": "Mattress Only",
+    "ExtensionGroupName": "Box Spring Type",
+    "SortIndex": 2
+  },
+  {
+    "ItemID": "CYM-124-SIM2RC",
+    "ExtensionGroupID": "BoxSpringST9LP55MO",
+    "ExtensionCode": "-ST",
+    "ExtensionName": "Standard 9\"",
+    "ExtensionGroupName": "Box Spring Type",
+    "SortIndex": 2
+  },
+  {
+    "ItemID": "CYM-125",
+    "ExtensionGroupID": "Size-CKQFT",
+    "ExtensionCode": "-T",
+    "ExtensionName": "Twin",
+    "ExtensionGroupName": "Size",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-125",
+    "ExtensionGroupID": "Size-CKQFT",
+    "ExtensionCode": "-Q",
+    "ExtensionName": "Queen",
+    "ExtensionGroupName": "Size",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-125",
+    "ExtensionGroupID": "Size-CKQFT",
+    "ExtensionCode": "-K",
+    "ExtensionName": "King",
+    "ExtensionGroupName": "Size",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-125",
+    "ExtensionGroupID": "Size-CKQFT",
+    "ExtensionCode": "-F",
+    "ExtensionName": "Full",
+    "ExtensionGroupName": "Size",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-125",
+    "ExtensionGroupID": "Size-CKQFT",
+    "ExtensionCode": "-CK",
+    "ExtensionName": "California King",
+    "ExtensionGroupName": "Size",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-136-01-WH",
+    "ExtensionGroupID": "Size-KQ",
+    "ExtensionCode": "-K",
+    "ExtensionName": "King",
+    "ExtensionGroupName": "Size",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-136-01-WH",
+    "ExtensionGroupID": "Size-KQ",
+    "ExtensionCode": "-Q",
+    "ExtensionName": "Queen",
+    "ExtensionGroupName": "Size",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-139-SET-WH",
+    "ExtensionGroupID": "Size-KQ",
+    "ExtensionCode": "-Q",
+    "ExtensionName": "Queen",
+    "ExtensionGroupName": "Size",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-139-SET-WH",
+    "ExtensionGroupID": "Size-KQ",
+    "ExtensionCode": "-K",
+    "ExtensionName": "King",
+    "ExtensionGroupName": "Size",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-139-WH",
+    "ExtensionGroupID": "Size-KQ",
+    "ExtensionCode": "-K",
+    "ExtensionName": "King",
+    "ExtensionGroupName": "Size",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-139-WH",
+    "ExtensionGroupID": "Size-KQ",
+    "ExtensionCode": "-Q",
+    "ExtensionName": "Queen",
+    "ExtensionGroupName": "Size",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-171-02-01",
+    "ExtensionGroupID": "Color-hyggethrow",
+    "ExtensionCode": "-BL",
+    "ExtensionName": "Marine",
+    "ExtensionGroupName": "Color Option",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-171-02-01",
+    "ExtensionGroupID": "Color-hyggethrow",
+    "ExtensionCode": "-CC",
+    "ExtensionName": "Charcoal",
+    "ExtensionGroupName": "Color Option",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-171-02-01",
+    "ExtensionGroupID": "Color-hyggethrow",
+    "ExtensionCode": "-NA",
+    "ExtensionName": "Natural",
+    "ExtensionGroupName": "Color Option",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-330-RE",
+    "ExtensionGroupID": "MarMirror-Color",
+    "ExtensionCode": "-BN",
+    "ExtensionName": "Brushed Nickel",
+    "ExtensionGroupName": "Finish",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-330-RE",
+    "ExtensionGroupID": "MarMirror-Color",
+    "ExtensionCode": "-CH",
+    "ExtensionName": "Polished Chrome",
+    "ExtensionGroupName": "Finish",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-331-RE",
+    "ExtensionGroupID": "MarMirror-Color",
+    "ExtensionCode": "-CH",
+    "ExtensionName": "Polished Chrome",
+    "ExtensionGroupName": "Finish",
+    "SortIndex": 1
+  },
+  {
+    "ItemID": "CYM-331-RE",
+    "ExtensionGroupID": "MarMirror-Color",
+    "ExtensionCode": "-BN",
+    "ExtensionName": "Brushed Nickel",
+    "ExtensionGroupName": "Finish",
+    "SortIndex": 1
+  }
+]
