@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import FormatCurrency from '../formatCurrency';
+import FormatCurrency from '../utils/formatCurrency';
 class ProductPrice extends Component {
 	constructor(props) {
 		super(props);
@@ -15,7 +15,6 @@ class ProductPrice extends Component {
 	componentDidUpdate(prevProps) {
 		if (this.props.selectedItem !== prevProps.selectedItem) {
 			this.updateDisplayedPrice();
-			console.log('price update called');
 		}
 	}
 

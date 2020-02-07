@@ -20,3 +20,7 @@ export const updateSearchKeyword = searchKeyword => ({
 	type: types.SET_SEARCH_KEYWORD,
 	searchKeyword
 });
+
+export const deleteState = () => ({
+	type: types.DELETE_STATE,
+});

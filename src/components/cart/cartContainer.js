@@ -4,8 +4,8 @@ import { updateItem, deleteItem } from "../../state/actions"
 import { Row, Col, PageHeader } from "antd"
 import CartList from "./cartList"
 import CartEmpty from "./cartEmpty"
-import CheckoutBtn from "../checkoutBtn"
-import Subtotal from "../subtotal"
+import CheckoutBtn from "../utils/checkoutBtn"
+import Subtotal from "../utils/subTotal"
 
 const CartContainer = ({ cartProducts, updateItem, deleteItem }) => (
   <div>

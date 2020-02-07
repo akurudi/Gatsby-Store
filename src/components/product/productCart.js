@@ -68,8 +68,7 @@ class ProductCart extends Component {
 	render() {
 		return (
 			<>
-				<span>{this.props.cartCount}</span>
-				<ProductPrice inventory={this.props.inventory} selectedItem={this.state.selectedItem} />
+				<span style={{fontWeight: "bold"}}>Price: </span><ProductPrice inventory={this.props.inventory} selectedItem={this.state.selectedItem} />
 				<ProductForm
 					inventory={this.props.inventory}
 					extension={this.props.extension}

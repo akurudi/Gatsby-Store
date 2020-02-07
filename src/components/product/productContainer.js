@@ -2,7 +2,7 @@ import React, { Component } from "react"
 import { Row, Col, Tabs } from "antd"
 import MainHeader from "../mainHeader"
 import ProductCart from "./productCart"
-import ProductImage from "../productImage"
+import Img from "gatsby-image"
 const TabPane = Tabs.TabPane
 class ProductContainer extends Component {
   render() {
@@ -21,7 +21,7 @@ class ProductContainer extends Component {
             style={{ padding: "10px" }}
           >
             <Col xs={22} sm={8}>
-              <ProductImage />
+              <Img fluid={this.props.image} />
             </Col>
             <Col xs={22} sm={12}>
               <ProductCart

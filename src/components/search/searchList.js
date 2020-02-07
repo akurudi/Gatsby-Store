@@ -1,13 +1,12 @@
 import React from "react"
 import { Link } from "gatsby"
 import { Col, Card } from "antd"
-import ProductImage from "../productImage"
+import ProductImage from "../utils/productImage"
 const { Meta } = Card
-const regEx = /productgroup.aspx\?|productdetail.aspx\?|product.aspx\?|category.aspx\?|productlist.aspx\?/gi
 
 export default ({ items }) => {
   return items.map(node => {
-    const link = `/product/${node.User1.replace(regEx, "").toLowerCase()}/`
+    const link = `/product/${node.User1.toLowerCase()}/`
     return (
       <Col
         key={node.ItemID}
@@ -20,7 +19,7 @@ export default ({ items }) => {
         <Link to={link} className="nav-link">
           <Card
             hoverable
-            cover={<ProductImage />}
+            cover={<ProductImage imageName={node.Image} />}
             style={{ margin: "10px", backgroundColor: "#8bc5d2" }}
           >
             <Meta title={node.Name} />

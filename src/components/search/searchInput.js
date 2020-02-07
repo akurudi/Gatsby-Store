@@ -39,19 +39,15 @@ class SearchInput extends Component {
     } else {
       navigate("/search/")
     }
-    console.log("handleSelect " + value)
   }
 
   handleSearch(value) {
-    //this.setState({ searchKeyword: value });
-    console.log("handleSearch " + value)
     if(value !== '') {
       navigate("/search/")
     }
   }
 
   handleChange(value) {
-    console.log("handleChange " + value)
     this.props.updateSearchKeyword(value)
   }
 

@@ -3,7 +3,7 @@ import { Row, Col } from 'antd';
 import { Link } from 'gatsby';
 import TopNav from '../topNav';
 import SearchInput from '../search/searchInput';
-import CartLink from '../cart/CartLink';
+import CartLink from '../cart/cartLink';
 import logo from '../../images/shopping-logo.png';
 
 export default () => (

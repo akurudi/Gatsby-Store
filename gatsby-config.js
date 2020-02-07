@@ -1,7 +1,6 @@
 require('dotenv').config({
 	path: `.env.${process.env.NODE_ENV}`
 });
-console.log(process.env.CONTENTFUL_ACCESS_TOKEN)
 module.exports = {
   plugins: [
     `gatsby-plugin-less`,
@@ -11,29 +10,17 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: "HAH Store",
-        short_name: "HAH Store",
+        name: "Gatsby Store",
+        short_name: "Gatsby Store",
         start_url: "/",
         background_color: "#001529",
         theme_color: "#001529",
         display: "standalone",
-        icon: "src/images/icon.png",
+        icon: "src/images/shopping-logo.png",
         crossOrigin: `use-credentials`,
       },
     },
-    {
-      resolve: "gatsby-plugin-offline",
-      options: {
-        globPatterns: ["**/component*","**/page-data/**/*"],
-      },
-    },
-    {
-      resolve: `gatsby-source-contentful`,
-      options: {
-        spaceId: `8hgxbouhiiug`,
-        accessToken: process.env.CONTENTFUL_ACCESS_TOKEN,
-      },
-    },
+    `gatsby-plugin-offline`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {

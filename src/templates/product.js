@@ -9,13 +9,21 @@ export default ({ data }) => (
   <Layout top={<Header />} bottom={<Footer />}>
     <ProductContainer
       inventory={data.allItemJson.edges}
-			extension={data.allItemExtensionJson && data.allItemExtensionJson.group}
+      extension={data.allItemExtensionJson && data.allItemExtensionJson.group}
+      image={data.file.childImageSharp.fluid}
     />
   </Layout>
 )
 
 export const query = graphql`
-  query($ItemID: String!) {
+  query($ItemID: String!, $Image: String!) {
+    file(relativePath: { eq: $Image }) {
+      childImageSharp {
+        fluid(maxWidth: 500, quality: 100) {
+          ...GatsbyImageSharpFluid
+        }
+      }
+    }
     allItemJson(filter: { ItemID: { eq: $ItemID } }) {
       edges {
         node {
@@ -30,6 +38,7 @@ export const query = graphql`
           qtyAvail
           USD_ListPrice
           USD_Price
+          Image
         }
       }
     }

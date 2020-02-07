@@ -2,6 +2,8 @@
   {
     "CategoryID": "Bath",
     "CategoryName": "Bath",
+    "Descr": "<headline></headline><details>The Courtyard signature bath products help you feel rejuvenated and ready for the day. From our plush towels and cozy bathrobes to essential shower curtains and vanity mirrors, the Courtyard bath collection is made to help you relax and restore.</details>",
+    "Image": "images/davies_gate_collection_lrg.jpg",
     "CategoryLevel": 0,
     "User1": "Bath",
     "sortIndex": 5
@@ -9,6 +11,8 @@
   {
     "CategoryID": "Bed",
     "CategoryName": "Bed",
+    "Descr": "<headline></headline><details>Bring the comfort of Courtyard home with everything you need to rest and recharge. Our mattress and box springs are perfectly designed to provide the hotel-quality sleep experience you’ve been waiting for. Treat yourself to good nights and good days with the Courtyard Bed.</details>",
+    "Image": "images/cym-124_lrg.jpg",
     "CategoryLevel": 0,
     "User1": "Bed",
     "sortIndex": 1
@@ -16,6 +20,8 @@
   {
     "CategoryID": "Bedding",
     "CategoryName": "Bedding",
+    "Descr": "<headline></headline><details>Courtyard hotel bedding is thoughtfully designed to help you dream big dreams. Relax and unwind with our plush bedding collection featuring linens, pillows, mattress topper and more.</details>",
+    "Image": "images/cym-124_lrg.jpg",
     "CategoryLevel": 0,
     "User1": "Bedding",
     "sortIndex": 4
@@ -23,6 +29,8 @@
   {
     "CategoryID": "bistro",
     "CategoryName": "Bistro",
+    "Descr": "<headline></headline><details>Elevate your kitchen and bar experience with our Courtyard Bistro serveware collection. From cereal bowls and salad plates to porcelain ramekins and wine glasses, we have everything you need to make serving fun again - and satisfy your cravings at the same time.</details>",
+    "Image": "images/Bistro_lrg.jpg",
     "CategoryLevel": 0,
     "User1": "Bistro",
     "sortIndex": 6
@@ -30,6 +38,8 @@
   {
     "CategoryID": "Linens",
     "CategoryName": "Linens",
+    "Descr": "<headline></headline><details>Courtyard understands that your bedroom is your ultimate retreat to unwind and reset. Designed with traditional hotel fabrications and enhanced textured detailing, our linen and sheet collections make you feel like you’re back on vacation every time you turn them down.</details>",
+    "Image": "images/signature-sheet-set-MAR-106_lrg.jpg",
     "CategoryLevel": 1,
     "User1": "Linens",
     "sortIndex": 4
@@ -37,6 +47,8 @@
   {
     "CategoryID": "LinensLink",
     "CategoryName": "Linens",
+    "Descr": null,
+    "Image": "images/cym-124_lrg.jpg",
     "CategoryLevel": 0,
     "User1": "Linens",
     "sortIndex": 3
@@ -44,6 +56,8 @@
   {
     "CategoryID": "Pillows",
     "CategoryName": "Pillows",
+    "Descr": "<headline></headline><details>No matter your preference, the Courtyard pillow collection features a multitude of sizes and styles that are sure to provide you with the fit and comfort for restorative sleep. Your soft landing awaits with our selection of feather and down and down alternative pillows.</details>",
+    "Image": "images/down-alternative-eco-pillow-MAR-108-ECO_lrg.jpg",
     "CategoryLevel": 1,
     "User1": "Pillows",
     "sortIndex": 5
@@ -51,6 +65,8 @@
   {
     "CategoryID": "PillowsLink",
     "CategoryName": "Pillows",
+    "Descr": null,
+    "Image": "images/cym-108_lrg.jpg",
     "CategoryLevel": 0,
     "User1": "Pillows",
     "sortIndex": 2
@@ -58,6 +74,8 @@
   {
     "CategoryID": "throws",
     "CategoryName": "Throws",
+    "Descr": "<headline></headline>\n<details>Courtyard understands that your bedroom is your ultimate retreat to unwind and reset. Designed with traditional hotel fabrications and enhanced textured detailing, our linen and sheet collections make you feel like you’re back on vacation every time you turn them down.</details>",
+    "Image": "images/hygge-throws-CYM-171-02-01_lrg.jpg",
     "CategoryLevel": 1,
     "User1": "hygge-throw",
     "sortIndex": 7
@@ -65,6 +83,8 @@
   {
     "CategoryID": "Towels",
     "CategoryName": "Towels",
+    "Descr": "<headline></headline><details>Wrap yourself in a warm embrace with the Courtyard collection of plush, ultra-absorbent towels. These extra soft towels make showering and bathing a truly sublime experience. As easy on the eyes as they are on the skin, the Courtyard premier towel collection gives every bathroom a spa-like appeal.</details>",
+    "Image": "images/towel-set-MAR-310-SET_lrg.jpg",
     "CategoryLevel": 1,
     "User1": "Towels",
     "sortIndex": 3
@@ -72,6 +92,8 @@
   {
     "CategoryID": "VanityMirrors",
     "CategoryName": "Vanity Mirrors",
+    "Descr": "<headline></headline><details>You’ll love your reflection in this stunning collection of vanity mirrors. The chic minimalist design and sublime attention to detail give Courtyard Vanity Mirrors the perfect blend of form and function.</details>",
+    "Image": "images/vanity-mirrors_lrg.jpg",
     "CategoryLevel": 1,
     "User1": "vanity-mirrors",
     "sortIndex": 4

@@ -21,7 +21,7 @@ class SearchContainer extends Component {
   })
 
   render() {
-    const jsSearchObj = this.buildSearchIndex(this.props.data.allItemJson.nodes)
+    const jsSearchObj = this.buildSearchIndex(this.props.data)
     const queryResult = jsSearchObj.search(this.props.keyword)
     return (
       <Row justify="center" type="flex">
@@ -63,11 +63,12 @@ const staticSearchContainer = ({ searchKeyword }) => (
             Name
             Descr
             User1
+            Image
           }
         }
       }
     `}
-    render={data => <SearchContainer data={data} keyword={searchKeyword} />}
+    render={data => <SearchContainer data={data.allItemJson.nodes} keyword={searchKeyword} />}
   />
 )
 

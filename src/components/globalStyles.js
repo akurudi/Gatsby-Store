@@ -19,3 +19,4 @@ import 'antd/lib/tabs/style';
 import 'antd/lib/modal/style';
 import 'antd/lib/divider/style';
 import 'antd/lib/page-header/style';
+import 'antd/lib/carousel/style';

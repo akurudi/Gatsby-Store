@@ -1,6 +1,6 @@
 import React from "react"
 import { connect } from "react-redux"
-import { getCartSubtotal } from "../state/reducer"
+import { getCartSubtotal } from "../../state/reducer"
 import { Typography } from "antd"
 import FormatCurrency from './formatCurrency';
 

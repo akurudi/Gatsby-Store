@@ -58,7 +58,6 @@ class InnerProductForm extends Component {
 					extDesc: this.state.extDesc
 				});
 				this.props.addToCart(selectedItem);
-				console.log(selectedItem)
 				this.setState({ 
 					showModal:true,
 					modalItem: selectedItem

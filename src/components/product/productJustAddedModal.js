@@ -3,10 +3,10 @@ import { Link } from 'gatsby';
 import { Row, Col, Modal, Typography, Divider, Button } from "antd"
 import { getCartCount } from '../../state/reducer';
 import { connect } from 'react-redux';
-import FormatCurrency from '../formatCurrency';
-import CheckoutBtn from '../checkoutBtn';
-import Subtotal from '../subtotal';
-import ProductImage from "../productImage"
+import FormatCurrency from '../utils/formatCurrency';
+import CheckoutBtn from '../utils/checkoutBtn';
+import Subtotal from '../utils/subTotal';
+import ProductImage from "../utils/productImage"
 
 const ModalContent = (justAddedItem, cartCount) => {
   return (
@@ -18,10 +18,10 @@ const ModalContent = (justAddedItem, cartCount) => {
           </Col>
         </Row>
         <Row type="flex" justify="center" gutter={24}>
-          <Col xs={20} sm={10} style={{ border: "1px solid #8bc5d2" }}>
-            <ProductImage />
+          <Col xs={20} sm={12}>
+            <ProductImage imageName={justAddedItem.Image} />
           </Col>
-          <Col xs={20} sm={10}>
+          <Col xs={20} sm={12}>
             <h3>{justAddedItem.Name}</h3>
             {justAddedItem.extDesc && (
               <p>

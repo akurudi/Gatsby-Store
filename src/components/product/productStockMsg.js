@@ -15,7 +15,6 @@ class ProductStockMsg extends Component {
 	componentDidUpdate(prevProps) {
 		if (this.props.selectedItem !== prevProps.selectedItem) {
 			this.checkInvtIDStock();
-			console.log('Stock update called');
 		}
 	}
 

@@ -7,21 +7,22 @@ import CategoryContainer from "../components/categoryContainer"
 
 export default ({ data }) => (
   <Layout top={<Header />} bottom={<Footer />}>
-    <CategoryContainer data={data} />
+    <CategoryContainer
+      category={data.allCategoryItemJson}
+    />
   </Layout>
 )
 
 export const query = graphql`
   query($CategoryID: String!) {
     allCategoryItemJson(filter: { CategoryID: { eq: $CategoryID } }) {
-      edges {
-        node {
-          CategoryName
-          ItemName
-          User1
-          ItemID
-          ItemType
-        }
+      nodes {
+        CategoryName
+        ItemName
+        User1
+        ItemID
+        ItemType
+        Image
       }
     }
   }

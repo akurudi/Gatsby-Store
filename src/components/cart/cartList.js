@@ -2,8 +2,8 @@ import React, { Component } from 'react';
 import { Link } from 'gatsby';
 import { Table, InputNumber, Typography, Icon, Row, Col } from 'antd';
 import Media from "react-media";
-import FormatCurrency from '../formatCurrency';
-import ProductImage from "../productImage"
+import FormatCurrency from '../utils/formatCurrency';
+import ProductImage from "../utils/productImage"
 
 class CartList extends Component {
 	render() {
@@ -11,14 +11,14 @@ class CartList extends Component {
 		const columns = [
 			{
 				title: '',
-				width: '250px',
+				width: '200px',
 				key: 'image',
 				hideOnSmall: true,
 				render: record => {
 					return (
 						<Row>
-							<Col xs={0} sm={18} md={24}>
-								<ProductImage />
+							<Col xs={0} md={24}>
+								<ProductImage imageName={record.Image} />
 							</Col>
 						</Row>
 					)
@@ -71,7 +71,7 @@ class CartList extends Component {
 		];
 		const getResponsiveColumns = isXsWidth => columns.filter(({hideOnSmall = false})=> !(isXsWidth && hideOnSmall))
 		return (
-			<Media query="(max-width: 576px)">
+			<Media query="(max-width: 768px)">
         {isXsWidth => {
           return (
             <Table columns={getResponsiveColumns(isXsWidth)} dataSource={this.props.products} pagination={false} rowKey="InvtID" />
